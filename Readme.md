@@ -20,11 +20,6 @@ For our version of RPSLS (Rock, Paper, Sissors, Lizard, Spock) we designed it ar
 - Ruby
 - Agile
 - TDD
-- RSpec
 
 #Team Members
 - Shan Hasan
-- Ming Chan
-
-#Link to webpage
-- https://simpson-rps.herokuapp.com/
