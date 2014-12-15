@@ -23,4 +23,4 @@ For our version of RPSLS (Rock, Paper, Sissors, Lizard, Spock) we designed it ar
 
 #Team Members
 - Shan Hasan
-- Pawel
+- Pavel
